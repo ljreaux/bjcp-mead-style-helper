@@ -45,7 +45,9 @@ export const InfoPage = () => {
           </h2>
           <p>
             You’ll then select your ingredients from categorized lists. For best
-            results, choose ingredients from the suggestions provided.
+            results, choose ingredients from the suggestions provided. There is
+            no need to include things like nutrients, tannins, or oak (unless
+            its spirit soaked).
           </p>
 
           <Alert className="mt-4">
@@ -67,8 +69,9 @@ export const InfoPage = () => {
           </h2>
           <p>
             The final page will show the suggested BJCP category with a direct
-            link to its official description. You’ll also see the required and
-            optional information for that style.
+            link and its official description. You’ll also see the required and
+            optional information for that style based on the ingredients you
+            provided.
           </p>
           <Alert className="mt-4" variant="warning">
             <Info className="h-4 w-4" />
