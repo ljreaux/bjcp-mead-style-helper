@@ -65,12 +65,16 @@ function Main() {
       </header>
       {step}
       <div className="flex gap-4 py-4">
-        <Button onClick={back} disabled={isFirst}>
-          Back
-        </Button>
-        <Button onClick={next} disabled={!canGoNext}>
-          Next
-        </Button>
+        {isFirst || (
+          <Button onClick={back} disabled={isFirst}>
+            Back
+          </Button>
+        )}
+        {isLast || (
+          <Button onClick={next} disabled={!canGoNext}>
+            Next
+          </Button>
+        )}
       </div>
       <footer className="fixed bottom-2 inset-x-0 text-center text-sm text-muted-foreground">
         Built by{" "}
