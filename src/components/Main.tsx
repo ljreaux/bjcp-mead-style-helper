@@ -72,6 +72,17 @@ function Main() {
           Next
         </Button>
       </div>
+      <footer className="fixed bottom-2 inset-x-0 text-center text-sm text-muted-foreground">
+        Built by{" "}
+        <a
+          href="https://github.com/ljreaux"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline hover:text-primary transition-colors"
+        >
+          ljreaux
+        </a>
+      </footer>
     </main>
   );
 }
