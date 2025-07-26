@@ -1,0 +1,982 @@
+[
+  {
+    "label": "Autumn Olive",
+    "category": "Berry",
+    "value": "autumn-olive"
+  },
+  {
+    "label": "Black Currant",
+    "category": "Berry",
+    "value": "black-currant"
+  },
+  {
+    "label": "Blackberry",
+    "category": "Berry",
+    "value": "blackberry"
+  },
+  {
+    "label": "Blueberry",
+    "category": "Berry",
+    "value": "blueberry"
+  },
+  {
+    "label": "Boysenberry",
+    "category": "Berry",
+    "value": "boysenberry"
+  },
+  {
+    "label": "Chokeberry",
+    "category": "Berry",
+    "value": "chokeberry"
+  },
+  {
+    "label": "Cloudberry",
+    "category": "Berry",
+    "value": "cloudberry"
+  },
+  {
+    "label": "Cranberry",
+    "category": "Berry",
+    "value": "cranberry"
+  },
+  {
+    "label": "Cranberry Juice",
+    "category": "Berry",
+    "value": "cranberry-juice"
+  },
+  {
+    "label": "Elderberry",
+    "category": "Berry",
+    "value": "elderberry"
+  },
+  {
+    "label": "Gooseberry",
+    "category": "Berry",
+    "value": "gooseberry"
+  },
+  {
+    "label": "Huckleberry",
+    "category": "Berry",
+    "value": "huckleberry"
+  },
+  {
+    "label": "Loganberry",
+    "category": "Berry",
+    "value": "loganberry"
+  },
+  {
+    "label": "Marionberry",
+    "category": "Berry",
+    "value": "marionberry"
+  },
+  {
+    "label": "Mulberry",
+    "category": "Berry",
+    "value": "mulberry"
+  },
+  {
+    "label": "Oregon Grape",
+    "category": "Berry",
+    "value": "oregon-grape"
+  },
+  {
+    "label": "Raspberry",
+    "category": "Berry",
+    "value": "raspberry"
+  },
+  {
+    "label": "Red Currant",
+    "category": "Berry",
+    "value": "red-currant"
+  },
+  {
+    "label": "Salmonberry",
+    "category": "Berry",
+    "value": "salmonberry"
+  },
+  {
+    "label": "Serviceberry",
+    "category": "Berry",
+    "value": "serviceberry"
+  },
+  {
+    "label": "Strawberry",
+    "category": "Berry",
+    "value": "strawberry"
+  },
+  {
+    "label": "Wineberry",
+    "category": "Berry",
+    "value": "wineberry"
+  },
+  {
+    "label": "Apple",
+    "category": "Cyser",
+    "value": "apple"
+  },
+  {
+    "label": "Apple Juice",
+    "category": "Cyser",
+    "value": "apple-juice"
+  },
+  {
+    "label": "Cider Apples",
+    "category": "Cyser",
+    "value": "cider-apples"
+  },
+  {
+    "label": "Crabapple",
+    "category": "Cyser",
+    "value": "crabapple"
+  },
+  {
+    "label": "Golden Delicious Apple",
+    "category": "Cyser",
+    "value": "golden-delicious-apple"
+  },
+  {
+    "label": "Granny Smith Apple",
+    "category": "Cyser",
+    "value": "granny-smith-apple"
+  },
+  {
+    "label": "McIntosh Apple",
+    "category": "Cyser",
+    "value": "mc-intosh-apple"
+  },
+  {
+    "label": "Banana",
+    "category": "Melomel",
+    "value": "banana"
+  },
+  {
+    "label": "Breadfruit",
+    "category": "Melomel",
+    "value": "breadfruit"
+  },
+  {
+    "label": "Cactus Pear",
+    "category": "Melomel",
+    "value": "cactus-pear"
+  },
+  {
+    "label": "Calamansi",
+    "category": "Melomel",
+    "value": "calamansi"
+  },
+  {
+    "label": "Cantaloupe",
+    "category": "Melomel",
+    "value": "cantaloupe"
+  },
+  {
+    "label": "Date",
+    "category": "Melomel",
+    "value": "date"
+  },
+  {
+    "label": "Dragon Fruit",
+    "category": "Melomel",
+    "value": "dragon-fruit"
+  },
+  {
+    "label": "Feijoa",
+    "category": "Melomel",
+    "value": "feijoa"
+  },
+  {
+    "label": "Fig",
+    "category": "Melomel",
+    "value": "fig"
+  },
+  {
+    "label": "Figs, Dried",
+    "category": "Melomel",
+    "value": "figs-dried"
+  },
+  {
+    "label": "Grapefruit",
+    "category": "Melomel",
+    "value": "grapefruit"
+  },
+  {
+    "label": "Guava",
+    "category": "Melomel",
+    "value": "guava"
+  },
+  {
+    "label": "Honeydew Melon",
+    "category": "Melomel",
+    "value": "honeydew-melon"
+  },
+  {
+    "label": "Jackfruit",
+    "category": "Melomel",
+    "value": "jackfruit"
+  },
+  {
+    "label": "Kiwi",
+    "category": "Melomel",
+    "value": "kiwi"
+  },
+  {
+    "label": "Lemon",
+    "category": "Melomel",
+    "value": "lemon"
+  },
+  {
+    "label": "Lime",
+    "category": "Melomel",
+    "value": "lime"
+  },
+  {
+    "label": "Longan",
+    "category": "Melomel",
+    "value": "longan"
+  },
+  {
+    "label": "Loquat",
+    "category": "Melomel",
+    "value": "loquat"
+  },
+  {
+    "label": "Lychee",
+    "category": "Melomel",
+    "value": "lychee"
+  },
+  {
+    "label": "Mango",
+    "category": "Melomel",
+    "value": "mango"
+  },
+  {
+    "label": "Orange",
+    "category": "Melomel",
+    "value": "orange"
+  },
+  {
+    "label": "Other Citrus",
+    "category": "Melomel",
+    "value": "other-citrus"
+  },
+  {
+    "label": "Papaya",
+    "category": "Melomel",
+    "value": "papaya"
+  },
+  {
+    "label": "Passion Fruit",
+    "category": "Melomel",
+    "value": "passion-fruit"
+  },
+  {
+    "label": "Pear",
+    "category": "Melomel",
+    "value": "pear"
+  },
+  {
+    "label": "Persimmon",
+    "category": "Melomel",
+    "value": "persimmon"
+  },
+  {
+    "label": "Pineapple",
+    "category": "Melomel",
+    "value": "pineapple"
+  },
+  {
+    "label": "Pomegranate",
+    "category": "Melomel",
+    "value": "pomegranate"
+  },
+  {
+    "label": "Prickly Pear",
+    "category": "Melomel",
+    "value": "prickly-pear"
+  },
+  {
+    "label": "Prunes",
+    "category": "Melomel",
+    "value": "prunes"
+  },
+  {
+    "label": "Quince",
+    "category": "Melomel",
+    "value": "quince"
+  },
+  {
+    "label": "Raisins",
+    "category": "Melomel",
+    "value": "raisins"
+  },
+  {
+    "label": "Sapote",
+    "category": "Melomel",
+    "value": "sapote"
+  },
+  {
+    "label": "Soursop",
+    "category": "Melomel",
+    "value": "soursop"
+  },
+  {
+    "label": "Starfruit",
+    "category": "Melomel",
+    "value": "starfruit"
+  },
+  {
+    "label": "Tamarind",
+    "category": "Melomel",
+    "value": "tamarind"
+  },
+  {
+    "label": "Tangerine",
+    "category": "Melomel",
+    "value": "tangerine"
+  },
+  {
+    "label": "Ugli Fruit",
+    "category": "Melomel",
+    "value": "ugli-fruit"
+  },
+  {
+    "label": "Watermelon",
+    "category": "Melomel",
+    "value": "watermelon"
+  },
+  {
+    "label": "Yuzu",
+    "category": "Melomel",
+    "value": "yuzu"
+  },
+  {
+    "label": "Cabernet",
+    "category": "Pyment",
+    "value": "cabernet"
+  },
+  {
+    "label": "Cabernet Franc",
+    "category": "Pyment",
+    "value": "cabernet-franc"
+  },
+  {
+    "label": "Concord",
+    "category": "Pyment",
+    "value": "concord"
+  },
+  {
+    "label": "Grape Juice, Purple",
+    "category": "Pyment",
+    "value": "grape-juice-purple"
+  },
+  {
+    "label": "Grape Juice, White",
+    "category": "Pyment",
+    "value": "grape-juice-white"
+  },
+  {
+    "label": "Merlot",
+    "category": "Pyment",
+    "value": "merlot"
+  },
+  {
+    "label": "Muscadine",
+    "category": "Pyment",
+    "value": "muscadine"
+  },
+  {
+    "label": "Petit Verdot",
+    "category": "Pyment",
+    "value": "petit-verdot"
+  },
+  {
+    "label": "Red Grape",
+    "category": "Pyment",
+    "value": "red-grape"
+  },
+  {
+    "label": "Sauvignon Blanc",
+    "category": "Pyment",
+    "value": "sauvignon-blanc"
+  },
+  {
+    "label": "Syrah",
+    "category": "Pyment",
+    "value": "syrah"
+  },
+  {
+    "label": "White Grape",
+    "category": "Pyment",
+    "value": "white-grape"
+  },
+  {
+    "label": "Zinfandel",
+    "category": "Pyment",
+    "value": "zinfandel"
+  },
+  {
+    "label": "Apricot",
+    "category": "Stone Fruit",
+    "value": "apricot"
+  },
+  {
+    "label": "Damson Plum",
+    "category": "Stone Fruit",
+    "value": "damson-plum"
+  },
+  {
+    "label": "Greengage Plum",
+    "category": "Stone Fruit",
+    "value": "greengage-plum"
+  },
+  {
+    "label": "Nectarine",
+    "category": "Stone Fruit",
+    "value": "nectarine"
+  },
+  {
+    "label": "Peach",
+    "category": "Stone Fruit",
+    "value": "peach"
+  },
+  {
+    "label": "Plum",
+    "category": "Stone Fruit",
+    "value": "plum"
+  },
+  {
+    "label": "Rainier Cherry",
+    "category": "Stone Fruit",
+    "value": "rainier-cherry"
+  },
+  {
+    "label": "Sweet Cherry",
+    "category": "Stone Fruit",
+    "value": "sweet-cherry"
+  },
+  {
+    "label": "Tart Cherry",
+    "category": "Stone Fruit",
+    "value": "tart-cherry"
+  },
+  {
+    "label": "White Nectarine",
+    "category": "Stone Fruit",
+    "value": "white-nectarine"
+  },
+  {
+    "label": "Yellow Peach",
+    "category": "Stone Fruit",
+    "value": "yellow-peach"
+  },
+  {
+    "label": "Allspice",
+    "category": "shv",
+    "value": "allspice"
+  },
+  {
+    "label": "Angelica Root",
+    "category": "shv",
+    "value": "angelica-root"
+  },
+  {
+    "label": "Anise Seed",
+    "category": "shv",
+    "value": "anise-seed"
+  },
+  {
+    "label": "Basil",
+    "category": "shv",
+    "value": "basil"
+  },
+  {
+    "label": "Bay Leaf",
+    "category": "shv",
+    "value": "bay-leaf"
+  },
+  {
+    "label": "Beet",
+    "category": "shv",
+    "value": "beet"
+  },
+  {
+    "label": "Black Tea",
+    "category": "shv",
+    "value": "black-tea"
+  },
+  {
+    "label": "Caraway",
+    "category": "shv",
+    "value": "caraway"
+  },
+  {
+    "label": "Cardamom",
+    "category": "shv",
+    "value": "cardamom"
+  },
+  {
+    "label": "Carrot",
+    "category": "shv",
+    "value": "carrot"
+  },
+  {
+    "label": "Celery Seed",
+    "category": "shv",
+    "value": "celery-seed"
+  },
+  {
+    "label": "Chaga Mushroom",
+    "category": "shv",
+    "value": "chaga-mushroom"
+  },
+  {
+    "label": "Chamomile",
+    "category": "shv",
+    "value": "chamomile"
+  },
+  {
+    "label": "Chicory Root",
+    "category": "shv",
+    "value": "chicory-root"
+  },
+  {
+    "label": "Chili Pepper",
+    "category": "shv",
+    "value": "chili-pepper"
+  },
+  {
+    "label": "Chive",
+    "category": "shv",
+    "value": "chive"
+  },
+  {
+    "label": "Chocolate",
+    "category": "shv",
+    "value": "chocolate"
+  },
+  {
+    "label": "Cinnamon",
+    "category": "shv",
+    "value": "cinnamon"
+  },
+  {
+    "label": "Clove",
+    "category": "shv",
+    "value": "clove"
+  },
+  {
+    "label": "Coconut",
+    "category": "shv",
+    "value": "coconut"
+  },
+  {
+    "label": "Coffee",
+    "category": "shv",
+    "value": "coffee"
+  },
+  {
+    "label": "Coriander",
+    "category": "shv",
+    "value": "coriander"
+  },
+  {
+    "label": "Cucumber",
+    "category": "shv",
+    "value": "cucumber"
+  },
+  {
+    "label": "Curry Leaf",
+    "category": "shv",
+    "value": "curry-leaf"
+  },
+  {
+    "label": "Dandelion",
+    "category": "shv",
+    "value": "dandelion"
+  },
+  {
+    "label": "Douglas Fir",
+    "category": "shv",
+    "value": "douglas-fir"
+  },
+  {
+    "label": "Elderflower",
+    "category": "shv",
+    "value": "elderflower"
+  },
+  {
+    "label": "Eucalyptus",
+    "category": "shv",
+    "value": "eucalyptus"
+  },
+  {
+    "label": "Fennel",
+    "category": "shv",
+    "value": "fennel"
+  },
+  {
+    "label": "Fenugreek",
+    "category": "shv",
+    "value": "fenugreek"
+  },
+  {
+    "label": "Galangal",
+    "category": "shv",
+    "value": "galangal"
+  },
+  {
+    "label": "Ginger",
+    "category": "shv",
+    "value": "ginger"
+  },
+  {
+    "label": "Grapefruit Zest",
+    "category": "shv",
+    "value": "grapefruit-zest"
+  },
+  {
+    "label": "Green Tea",
+    "category": "shv",
+    "value": "green-tea"
+  },
+  {
+    "label": "Hibiscus",
+    "category": "shv",
+    "value": "hibiscus"
+  },
+  {
+    "label": "Hops",
+    "category": "shv",
+    "value": "hops"
+  },
+  {
+    "label": "Horseradish",
+    "category": "shv",
+    "value": "horseradish"
+  },
+  {
+    "label": "Hyssop",
+    "category": "shv",
+    "value": "hyssop"
+  },
+  {
+    "label": "Juniper Berries",
+    "category": "shv",
+    "value": "juniper-berries"
+  },
+  {
+    "label": "Lavender",
+    "category": "shv",
+    "value": "lavender"
+  },
+  {
+    "label": "Lemon Zest",
+    "category": "shv",
+    "value": "lemon-zest"
+  },
+  {
+    "label": "Lemongrass",
+    "category": "shv",
+    "value": "lemongrass"
+  },
+  {
+    "label": "Licorice Root",
+    "category": "shv",
+    "value": "licorice-root"
+  },
+  {
+    "label": "Lime Zest",
+    "category": "shv",
+    "value": "lime-zest"
+  },
+  {
+    "label": "Lion's Mane",
+    "category": "shv",
+    "value": "lions-mane"
+  },
+  {
+    "label": "Lovage",
+    "category": "shv",
+    "value": "lovage"
+  },
+  {
+    "label": "Marigold",
+    "category": "shv",
+    "value": "marigold"
+  },
+  {
+    "label": "Meadowsweet",
+    "category": "shv",
+    "value": "meadowsweet"
+  },
+  {
+    "label": "Mint",
+    "category": "shv",
+    "value": "mint"
+  },
+  {
+    "label": "Morel Mushroom",
+    "category": "shv",
+    "value": "morel-mushroom"
+  },
+  {
+    "label": "Mugwort",
+    "category": "shv",
+    "value": "mugwort"
+  },
+  {
+    "label": "Mustard Seed",
+    "category": "shv",
+    "value": "mustard-seed"
+  },
+  {
+    "label": "Nutmeg",
+    "category": "shv",
+    "value": "nutmeg"
+  },
+  {
+    "label": "Orange Zest",
+    "category": "shv",
+    "value": "orange-zest"
+  },
+  {
+    "label": "Oregano",
+    "category": "shv",
+    "value": "oregano"
+  },
+  {
+    "label": "Other Citrus Zest",
+    "category": "shv",
+    "value": "other-citrus-zest"
+  },
+  {
+    "label": "Parsley",
+    "category": "shv",
+    "value": "parsley"
+  },
+  {
+    "label": "Pennyroyal",
+    "category": "shv",
+    "value": "pennyroyal"
+  },
+  {
+    "label": "Peppercorn",
+    "category": "shv",
+    "value": "peppercorn"
+  },
+  {
+    "label": "Porcini",
+    "category": "shv",
+    "value": "porcini"
+  },
+  {
+    "label": "Pumpkin",
+    "category": "shv",
+    "value": "pumpkin"
+  },
+  {
+    "label": "Reishi Mushroom",
+    "category": "shv",
+    "value": "reishi-mushroom"
+  },
+  {
+    "label": "Rhubarb",
+    "category": "shv",
+    "value": "rhubarb"
+  },
+  {
+    "label": "Rose Hips",
+    "category": "shv",
+    "value": "rose-hips"
+  },
+  {
+    "label": "Rose Petals",
+    "category": "shv",
+    "value": "rose-petals"
+  },
+  {
+    "label": "Sage",
+    "category": "shv",
+    "value": "sage"
+  },
+  {
+    "label": "Sarsaparilla",
+    "category": "shv",
+    "value": "sarsaparilla"
+  },
+  {
+    "label": "Shiitake Mushroom",
+    "category": "shv",
+    "value": "shiitake-mushroom"
+  },
+  {
+    "label": "Spinach",
+    "category": "shv",
+    "value": "spinach"
+  },
+  {
+    "label": "Spruce Tips",
+    "category": "shv",
+    "value": "spruce-tips"
+  },
+  {
+    "label": "Star Anise",
+    "category": "shv",
+    "value": "star-anise"
+  },
+  {
+    "label": "Stinging Nettle",
+    "category": "shv",
+    "value": "stinging-nettle"
+  },
+  {
+    "label": "Sumac",
+    "category": "shv",
+    "value": "sumac"
+  },
+  {
+    "label": "Sweet Potato",
+    "category": "shv",
+    "value": "sweet-potato"
+  },
+  {
+    "label": "Szechuan Peppercorn",
+    "category": "shv",
+    "value": "szechuan-peppercorn"
+  },
+  {
+    "label": "Tarragon",
+    "category": "shv",
+    "value": "tarragon"
+  },
+  {
+    "label": "Tea (for flavor)",
+    "category": "shv",
+    "value": "tea-for-flavor"
+  },
+  {
+    "label": "Thyme",
+    "category": "shv",
+    "value": "thyme"
+  },
+  {
+    "label": "Tomato",
+    "category": "shv",
+    "value": "tomato"
+  },
+  {
+    "label": "Turmeric",
+    "category": "shv",
+    "value": "turmeric"
+  },
+  {
+    "label": "Vanilla",
+    "category": "shv",
+    "value": "vanilla"
+  },
+  {
+    "label": "Wasabi",
+    "category": "shv",
+    "value": "wasabi"
+  },
+  {
+    "label": "Yarrow",
+    "category": "shv",
+    "value": "yarrow"
+  },
+  {
+    "label": "Yerba Mate",
+    "category": "shv",
+    "value": "yerba-mate"
+  },
+  {
+    "label": "Agave Nectar",
+    "category": "experimental",
+    "value": "agave-nectar"
+  },
+  {
+    "label": "Belgian Candi Syrup",
+    "category": "experimental",
+    "value": "belgian-candi-syrup"
+  },
+  {
+    "label": "Bocheted Honey",
+    "category": "experimental",
+    "value": "bocheted-honey"
+  },
+  {
+    "label": "Brown Sugar",
+    "category": "experimental",
+    "value": "brown-sugar"
+  },
+  {
+    "label": "Corn Sugar",
+    "category": "experimental",
+    "value": "corn-sugar"
+  },
+  {
+    "label": "Dark Corn Syrup",
+    "category": "experimental",
+    "value": "dark-corn-syrup"
+  },
+  {
+    "label": "Demarara Sugar",
+    "category": "experimental",
+    "value": "demarara-sugar"
+  },
+  {
+    "label": "Iced Mead / Ice Concentration",
+    "category": "experimental",
+    "value": "iced-mead-ice-concentration"
+  },
+  {
+    "label": "Light Corn Syrup",
+    "category": "experimental",
+    "value": "light-corn-syrup"
+  },
+  {
+    "label": "Liquor (e.g. Bourbon, Rum)",
+    "category": "experimental",
+    "value": "liquor-e-g-bourbon-rum"
+  },
+  {
+    "label": "Maple Syrup",
+    "category": "experimental",
+    "value": "maple-syrup"
+  },
+  {
+    "label": "Molasses",
+    "category": "experimental",
+    "value": "molasses"
+  },
+  {
+    "label": "Non-Traditional Yeast (e.g. Brett, Lambic)",
+    "category": "experimental",
+    "value": "non-traditional-yeast-e-g-brett-lambic"
+  },
+  {
+    "label": "Smoked Honey",
+    "category": "experimental",
+    "value": "smoked-honey"
+  },
+  {
+    "label": "Sorghum Syrup",
+    "category": "experimental",
+    "value": "sorghum-syrup"
+  },
+  {
+    "label": "Spirit-Soaked Oak",
+    "category": "experimental",
+    "value": "spirit-soaked-oak"
+  },
+  {
+    "label": "Table Sugar",
+    "category": "experimental",
+    "value": "table-sugar"
+  },
+  {
+    "label": "Turbinado Sugar",
+    "category": "experimental",
+    "value": "turbinado-sugar"
+  }
+]
