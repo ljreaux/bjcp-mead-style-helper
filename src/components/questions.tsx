@@ -117,7 +117,7 @@ export const PageOne = () => {
     isMelomel || isMetheglin || isSpecialty || isBraggot || isHistorical;
 
   return (
-    <div className="grid">
+    <div className="grid gap-2">
       <ListItem
         id="q-one"
         isChecked={isTraditional}
