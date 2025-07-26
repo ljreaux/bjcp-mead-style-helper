@@ -32,6 +32,7 @@ function Main() {
     isSpecialty,
     isBraggot,
     isHistorical,
+    warning,
   } = useMeadStyle();
 
   const steps = stepConfig.map(({ key, components }) => (
@@ -55,7 +56,7 @@ function Main() {
   const canGoNext =
     isInfoPage || // always allow
     (isQuestionsPage && categoryDefined) || // allow if category chosen
-    (!isInfoPage && !isQuestionsPage && !isLast); // allow all middle pages
+    (!isInfoPage && !isQuestionsPage && !isLast && !warning); // allow all middle pages
 
   return (
     <main className="p-4 flex flex-col gap-4">

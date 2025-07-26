@@ -99,6 +99,12 @@ export const MeadStyleProvider = ({ children }: { children: ReactNode }) => {
     } else if (!isMelomel && hasFruit) {
       warningMessage =
         "You’ve selected fruits but haven’t indicated that it contains any fruit.";
+    } else if (isMelomel && !hasFruit) {
+      warningMessage =
+        "You've selected that your Mead contains fruits, but haven't selected any fruits.";
+    } else if (isMetheglin && !hasSHV) {
+      warningMessage =
+        "You've selected that your Mead contains spices, but haven't selected any spices.";
     }
 
     if (warningMessage?.length) {
@@ -113,6 +119,7 @@ export const MeadStyleProvider = ({ children }: { children: ReactNode }) => {
     selectedIngredients: Ingredient[],
     isHistorical: boolean,
     isBraggot: boolean,
+    markedExperimental: boolean,
     sweetness: Sweetness
   ): IngredientReturnType => {
     const categoryMap = {
@@ -121,9 +128,10 @@ export const MeadStyleProvider = ({ children }: { children: ReactNode }) => {
       shv: "shv",
     };
 
-    const isExperimental = selectedIngredients.some(
-      (ing) => ing.category === categoryMap.experimental
-    );
+    const isExperimental =
+      selectedIngredients.some(
+        (ing) => ing.category === categoryMap.experimental
+      ) || markedExperimental;
 
     const isFruited = selectedIngredients.some((ing) =>
       categoryMap.fruit.includes(ing.category!)
@@ -258,6 +266,7 @@ export const MeadStyleProvider = ({ children }: { children: ReactNode }) => {
       selectedIngredients,
       isHistorical,
       isBraggot,
+      isSpecialty,
       sweetness
     );
     const category = determineCategory(details);
@@ -275,6 +284,7 @@ export const MeadStyleProvider = ({ children }: { children: ReactNode }) => {
     selectedIngredients,
     isHistorical,
     isBraggot,
+    isSpecialty,
     sweetness,
     honeyVarietal,
     edited,
