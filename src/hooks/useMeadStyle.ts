@@ -3,7 +3,7 @@ import { createContext, useContext } from "react";
 export type Sweetness = "sweet" | "semisweet" | "dry";
 export type Carb = "still" | "petillant" | "sparkling";
 export type Strength = "hydromel" | "standard" | "sack";
-export type Ingredient = { label: string; value: string; category?: string };
+export type Ingredient = { label: string; value: string; category: string };
 export type MeadStyleStateType = {
   isTraditional: boolean;
   toggleTraditional: () => void;

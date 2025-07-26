@@ -1,12 +1,8 @@
 import { useQuery } from "@tanstack/react-query";
-
-type IngredientItem = {
-  label: string;
-  value: string;
-};
+import type { Ingredient } from "./useMeadStyle";
 
 export const useIngredients = () => {
-  return useQuery<IngredientItem[]>({
+  return useQuery<Ingredient[]>({
     queryKey: ["ingredients"],
     queryFn: async () => {
       const res = await fetch("/ingredients.json");
