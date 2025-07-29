@@ -117,7 +117,8 @@ export const PageOne = () => {
     isMelomel || isMetheglin || isSpecialty || isBraggot || isHistorical;
 
   return (
-    <div className="grid gap-2">
+    <div className="grid sm:gap-2 gap-6">
+      <p className="text-xl">Select all that apply</p>
       <ListItem
         id="q-one"
         isChecked={isTraditional}
