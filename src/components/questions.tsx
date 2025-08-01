@@ -113,8 +113,7 @@ export const PageOne = () => {
     toggleHistorical,
   } = useMeadStyle();
 
-  const othersChecked =
-    isMelomel || isMetheglin || isSpecialty || isBraggot || isHistorical;
+  const othersChecked = isMelomel || isMetheglin || isSpecialty || isBraggot;
 
   return (
     <div className="grid sm:gap-2 gap-6">
@@ -164,7 +163,7 @@ export const PageOne = () => {
         isChecked={isHistorical}
         checkChange={toggleHistorical}
         label="Based on a historical or traditional recipe or technique"
-        disabled={isTraditional}
+        disabled={false}
         tooltipText="Check this if your mead is based on a specific historical style or old-world method — like Polish meads, Gruit-inspired herbal meads, or documented cultural traditions."
       />
     </div>

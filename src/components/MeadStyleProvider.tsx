@@ -58,10 +58,6 @@ export const MeadStyleProvider = ({ children }: { children: ReactNode }) => {
       setIsTraditional(false);
       setIsBraggot(true);
     }
-    if (isHistorical) {
-      setIsTraditional(false);
-      setIsHistorical(true);
-    }
   }, [
     isTraditional,
     isMelomel,
@@ -69,7 +65,6 @@ export const MeadStyleProvider = ({ children }: { children: ReactNode }) => {
     isSpecialty,
     sweetness,
     isBraggot,
-    isHistorical,
   ]);
 
   useEffect(() => {
